@@ -1,3 +1,3 @@
 # Weather-App
 
-Bringing in datat from another website.
+Bringing in data from another website.
